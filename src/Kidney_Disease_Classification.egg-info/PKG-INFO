@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: Kidney-Disease-Classification
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/mubbasherahmad/Kidney-Disease-Classification-Deep-Learning-Project-using-DVC-and-MLFLow-
+Author: mubbasherahmad
+Author-email: mubbasharahmad001@gmail.com
+Project-URL: Bug Tracker, https://github.com/mubbasherahmad/Kidney-Disease-Classification-Deep-Learning-Project-using-DVC-and-MLFLow-/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# Kidney-Disease-Classification-Deep-Learning-Project-using-DVC-and-MLFLow
